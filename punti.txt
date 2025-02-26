@@ -1,4 +1,7 @@
-Paolo 4
-Lucia 1
-Mario 1
-Giuseppe 0
+Paolo 4 
+Luca 3 
+Lucia 1 
+Mario 1 
+Giuseppe 0 
+moreno 0 
+moreno 0 
