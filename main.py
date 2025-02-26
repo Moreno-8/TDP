@@ -25,7 +25,7 @@ def carica_domande(nome_file):
         testo = righe[i].strip()
         livello = righe[i+1].strip()
         risp_corr = righe[i+2].strip()
-        risp = [ righe[i+3].strip(), righe[i+4].strip(), righe[i+5].strip()]
+        risp = [righe[i+3].strip(), righe[i+4].strip(), righe[i+5].strip()]
 
         domanda = Domanda(testo, livello, risp_corr, risp)
 
